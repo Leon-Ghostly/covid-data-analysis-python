@@ -75,7 +75,7 @@ This prevents data loss and keeps the dataset meaningful.
 
 1. Clone this repository
 
-git clone https://github.com/yourusername/covid-data-analysis-python
+git clone https://github.com/Leon-Ghostly/covid-data-analysis-python
 
 2. Install dependencies
 
